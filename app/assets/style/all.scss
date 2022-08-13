@@ -71,7 +71,7 @@ img{
   padding-right: 312px;
 
   h1 a {
-    background-image: url("../assets/images/logo-white.png");
+    background-image: url("../images/logo-white.png");
     background-size: 100%;
     width: 80px;
     height: 48px; 
@@ -159,7 +159,7 @@ img{
 
 @media(max-width: 767px){
   #imgs {
-      content: url("../assets/images/home-header-sm.png")
+      content: url("../images/home-header-sm.png")
   }
   .banner ul {
       width: 90%;
@@ -275,7 +275,7 @@ img{
 
 /* joinProduct */
 .joinProduct {
-  background-image: url(../assets/images/index-bg.png);
+  background-image: url(../images/index-bg.png);
   background-size: 100%;
   padding-top: 80px;
   padding-bottom: 80px;
@@ -313,7 +313,7 @@ img{
 
 @media(max-width: 767px){
   .joinProduct {
-      background-image: url("../assets/image/index-bg-sm.png");
+      background-image: url("../image/index-bg-sm.png");
       ul {
         flex-wrap: wrap;
         li {
